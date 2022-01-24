@@ -74,3 +74,20 @@ button{
 .about_info {
     max-width: 550px;
 }
+.form_container {
+    width: 550px;
+}
+.form{
+    background-color: #1D263A;
+    color: #fff;
+    padding-top: 115px; 
+    padding-bottom: 115px;
+    text-align: center
+}
+.form h1{
+    font-size: 48px;
+}
+.form p{
+    font-size: 18px;
+    opacity: 0.65
+}
